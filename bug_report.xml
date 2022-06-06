@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bug_report>
+  <Title>Error message appears after tapping on the "Confirm" button in the Order menu</Title>
+  <Date>06.06.2022</Date>
+  <Severity>S1 - Critical</Severity>
+  <Priority>P1 - Urgent</Priority>
+  <Environment>Xiaomi Redmi 10, Android 11<Environment>
+  <Steps to reproduce>
+    <ul>
+      <li>Go to the www.xyz.com</li>
+      <li>Tap the "Order" button</li>
+      <li>Tap the "Confirm" button</li>
+    <ul>
+  </Steps to reproduce>
+  <Expected result>Message "Your order has been sent" appears</Expected result>
+  <Actual result>The message "Error 404" appears</Actual result>
+ </bug_report>
