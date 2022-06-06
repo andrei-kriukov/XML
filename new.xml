@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+	<name>Andrei</name>
+	<lastname>Kriukov</lastname>
+	<age>35</age>
+</person>
+
+<pets>
+	<cat>1</cat>
+	<dog>null</dog>
+</pets>
+
+<salary>
+	<desired>50000</desired>
+</salary>
+
